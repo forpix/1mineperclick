@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://forpix.github.io/1mineperclick/sitemap.xml
