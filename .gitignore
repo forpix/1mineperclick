@@ -2,4 +2,6 @@
 # 策略文档只留本地，不进公开仓
 STATE.md
 DECISIONS.md
+CLAUDE.md
+AGENTS.md
 retros/
